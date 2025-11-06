@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-ExamApplication<spring-boot-exam-oracle>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.example.springbootexamoracle.ExamApplication",
+            "projectName": "spring-boot-exam-oracle",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
