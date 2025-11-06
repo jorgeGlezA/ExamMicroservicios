@@ -1,4 +1,4 @@
-# spring-boot-exam-oracle
+# spring-boot-exam-postgresql
 
 Proyecto Spring Boot (Java 17, Maven, JPA) con base de datos Oracle (sin Lombok).
 
